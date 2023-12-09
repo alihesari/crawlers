@@ -1,0 +1,4342 @@
+[
+    {
+        "company": "سیمرغ | Simorgh",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "ولتیفای | Walletifai",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "نوآوران پردازش گستر نصر | Noavaran Pardazesh Gostar Nasr",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نرم افزاری آدا | Ada Company",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "تمرکز رایا افزار | Raya afzar",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "آفاق سیر | Afaghseir",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "تمرکز رایا افزار | Raya afzar",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "تمرکز رایا افزار | Raya afzar",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "مهنا | Mahna",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "تجارت الکترونیک اول | Tejarat Electronic Aval",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آریا | Arya",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ترنج رهیافت نسل جدید | Toranj",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "16000000"
+    },
+    {
+        "company": "چادکو | Chadco",
+        "location": "فارس، شیراز",
+        "salary": "20000000"
+    },
+    {
+        "company": "آی تی ساز | ITSaaZ",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ورک بی | Workby",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ایرانیکارت | IraniCard",
+        "location": "اصفهان، اصفهان",
+        "salary": "24000000"
+    },
+    {
+        "company": "ماناسرور | Mana Server",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "وب مهر | Web Mehr",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "خدمات انفورماتیک نوین کیش | Novin-Kish Informatics Services Corporation",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "طرح اندیشان پویا | Tarh Andishan Puya",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "باکسیت | Boxit",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "شیرازتخفیف | Shiraz Takhfif",
+        "location": "فارس، شیراز",
+        "salary": "12000000"
+    },
+    {
+        "company": "جیبی‌مو | Jibimo",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "شرکت هوشمند تجارت نمودار | Nemoudar Business Intelligence",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "گلستان | Golestan",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "باکسیت | Boxit",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "پیشرو فناور هوشمند گیتی | Pishro Group",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "ایمن کاوان کیهان | Imen Kavan Keyhan",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "دانا پرداز  | DANA PARDAZ",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "سامان تراز | Besterun",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "لوله گستر گلپایگان | Loole Gostar Golpayegan",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "دانش نوین | Danesh Novin",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "چارت باکس | Chartbox",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "کاوه مکاترونیک آریا (کاما) | Kama",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "مرکز رشد صاعدرایان | Saedrayan",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "استودیو کریتیو باگ | Creative Bug Studio",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "24000000"
+    },
+    {
+        "company": "ارسنا | Arasnna",
+        "location": "هرمزگان، قشم",
+        "salary": "10000000"
+    },
+    {
+        "company": "فراز اس ام اس  | Faraz Sms",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "رستم | Rostam",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "راهبرد ایده‌آل امین | Amin Ideal Strategy",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "کلینیک آینده | Ayandeh Clinic",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مزمز | MazMaz",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "24000000"
+    },
+    {
+        "company": "مزمز | MazMaz",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "وبسایتکس | Websitex",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بیتشال | Bitcial",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "بیتشال | Bitcial",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "فناوری اطلاعات پارس کنترل | Pars Control",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "ارسباران (تتاپاور)  | Arsbaran",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "14000000"
+    },
+    {
+        "company": "فرش مدما ( مبتکر کفپوش آسیا )  | Mobtaker",
+        "location": "فارس، شیراز",
+        "salary": "15000000"
+    },
+    {
+        "company": "ناوشگران عصر پارسه | Navoshgaran",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "عیارسنج کسب و کارهای نوپا | Validation Studio",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "سامانه آهن | Samane Ahan",
+        "location": "قم، قم",
+        "salary": "16000000"
+    },
+    {
+        "company": "نوجهان | Nojahan",
+        "location": "قم، قم",
+        "salary": "30000000"
+    },
+    {
+        "company": "سامانه آهن | Samane Ahan",
+        "location": "قم، قم",
+        "salary": "30000000"
+    },
+    {
+        "company": "آریاراما | aryarama",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "آرون | Aron",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "رایان فن کاواندیش | Ariotek",
+        "location": "البرز، کرج",
+        "salary": "12000000"
+    },
+    {
+        "company": "تجارت گستر آرتین همتا | tejarat gostar artin hamta",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "کامودا | Camouda",
+        "location": "مازندران، آمل",
+        "salary": "8000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "ندا رسانان پیشرو | NRP",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "دِتال | Detal",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "کامودا | Camouda",
+        "location": "مازندران، آمل",
+        "salary": "8000000"
+    },
+    {
+        "company": "استاف  | Stuff",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "مسیر هوشمند یکپارچه نوین | SmartPath",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "نرم افزاری یگانه  | Yeganeh Soft Co",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ادیکیتور | Adicator",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آی بار | Ibaar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایراوب | Iraweb",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "فرا سامانه | Fara Samaneh",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "فرا سامانه | Fara Samaneh",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "قهوه ایلیا | Iliya Coffee",
+        "location": "اصفهان، اصفهان",
+        "salary": "12000000"
+    },
+    {
+        "company": "الكترونيک پيک شريف | E-Peyk",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بهین بازار | Behin Bazaar",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "استودیو پالیدین | Polydin Studio",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "توسعه فناوری رویداد بوم | Rouydad Boum Co",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "گروه اقلیما | Eqlima Group",
+        "location": "تهران، تهران",
+        "salary": "6000000"
+    },
+    {
+        "company": "دکتردکتر | Doctor Doctor",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "ایران سولار | Iran Solar",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آرشا سیستم جوان گراتک | Gratech",
+        "location": "کرمان، کرمان",
+        "salary": "10000000"
+    },
+    {
+        "company": "ارتباطات بارقه پردیس | Baregheh Pardis",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "فروشگاه های سراسری ساختمان کالا | SakhtemanKala",
+        "location": "تهران، تهران",
+        "salary": "5000000"
+    },
+    {
+        "company": "فناوری سایپا ارتباط | Fanavari Saipa Ertebat",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نارین دورکان آسیا | Narin Dourkavan Asia",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "مهندسی و توسعه پتروسازه مـبین | Petro Saze Mobin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "50000000"
+    },
+    {
+        "company": "گاسترون | Gasthron",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "پردازش اطلاعات شتاب | Shetab",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "دانا پرداز  | DANA PARDAZ",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "آدینه نگار اندیشه | Adine Negar Andishe",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "50000000"
+    },
+    {
+        "company": "نیک فناوران کیان شرق | Nik Fanavaran Kin Shargh",
+        "location": "خراسان رضوی، نیشابور",
+        "salary": "7000000"
+    },
+    {
+        "company": "دیبا درمان کاویان | Diba Darman Kavian",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "داده پژوه آریا | Dade Pajoohe Aria",
+        "location": "اصفهان، اصفهان",
+        "salary": "50000000"
+    },
+    {
+        "company": "شرکت هوشمند تجارت نمودار | Nemoudar Business Intelligence",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "تلنت اسکواد | TalentSquad",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "دانا پرداز  | DANA PARDAZ",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "تلنت اسکواد | TalentSquad",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "آینده سازان | Ayandeh sazan",
+        "location": "خوزستان، اهواز",
+        "salary": "12000000"
+    },
+    {
+        "company": "آباناشاپ | Abanashop",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آرین خاک | Arian Khak",
+        "location": "تهران، تهران",
+        "salary": "4500000"
+    },
+    {
+        "company": "پارسی افرا گیسوان | Afra Gis",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "ترنج رهیافت نسل جدید | Toranj",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "12000000"
+    },
+    {
+        "company": "داده پردازی آرین سیستم | ArianSystem Co",
+        "location": "تهران، رودهن",
+        "salary": "8000000"
+    },
+    {
+        "company": "کارناوال | Karnaval",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "تیپول | TiPoul",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "گروه بازرگانی و مهندسی سمیع پور و شرکا | Samiepour & Partners Group",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "رایا نوید سامانه (دانش بنیان) | Raya Navid Systems",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "هلدینگ فناوری بنتک | Bontech",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "رایان پژوه سلامت | Rayanpajouh Salamat",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "سلامت پخش هستی | Salamat Pakhsh Hasti",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "دِویش | Devish",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "دانا پرداز  | DANA PARDAZ",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "جی تک سافت | GTechSoft",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ایران در واقعیت مجازی | iraninvr",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "آریا اکسچنج | Arya Exchange",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "لیان | Lian",
+        "location": "یزد، یزد",
+        "salary": "12000000"
+    },
+    {
+        "company": "تحریر پاترون | Patrone",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "کوهشید | Koohshid",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "داده پردازی پارسیان | Parsian",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "کارا پلیمر کاوه | Kara Polymer Kaveh",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "نانو طب | Nanoteb",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "شهباز موتور | Shahbaz Motor",
+        "location": "اصفهان، اصفهان",
+        "salary": "9000000"
+    },
+    {
+        "company": "وبسایتکس | Websitex",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "راه گزین رایانه | Rahgozin Rayaneh",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "آژانس دیجیتال مارکتینگ لین | lean digital marketing agency",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "بیمه ما (نماینده مرکزی) | Bime Ma",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "راهکارهای فناوری غزال دامون | Rahkarhaye Fanavari Ghazal Damon",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "بصیر اندیشان بینا تدبیر | Basir Andishan Bina Tadbir",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "یونیلند | Uniland",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "دایرکتم | Directam",
+        "location": "اصفهان، اصفهان",
+        "salary": "18000000"
+    },
+    {
+        "company": "فراد نوآور | Farad Noavar",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "فراد نوآور | Farad Noavar",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "توسعه نوآفرین الفبای پارس (سهامی خاص) | Pars Alphabet Co LTD",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "18000000"
+    },
+    {
+        "company": "رک موبایل | Rook Mobile",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "موسسه زبان سفیر گفتمان | Safir English Language Academy",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "فناوری اطلاعات بشیر سبحان | Sobhan IT",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "سینا پخش ژن | Cinnapakhsh Jen",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "صنایع ایلیاکو | Ilyaco industries",
+        "location": "البرز، کرج",
+        "salary": "12000000"
+    },
+    {
+        "company": "لیان گوهران صنعت | LianGoharanSanat",
+        "location": "یزد، یزد",
+        "salary": "7000000"
+    },
+    {
+        "company": "رسادنت | Rasadent",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "آژانس سئودو | Seodo",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "گیلان، رشت",
+        "salary": "10000000"
+    },
+    {
+        "company": "گروه توسعه نرم افزاری منتظر | Montazer",
+        "location": "اصفهان، اصفهان",
+        "salary": "9000000"
+    },
+    {
+        "company": "آی‌تی‌هوم | Ithome",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "سپهر گستر فرتاک پارس (وبینه) | Webine",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "هوشان کاوش برنا  | Hooshan Kavoosh Borna",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آژانس خلاقیت وبسیما | Websima Creative Agency",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "چکاوک پردازش هوشمند البرز  | Chakavak Pardazesh Hooshmand Alborz",
+        "location": "البرز، کرج",
+        "salary": "18000000"
+    },
+    {
+        "company": "مسیر هوشمند یکپارچه نوین | SmartPath",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "لايك وب | Likeweb",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "م‌نیو | Me NEW",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "نسل پنج | Nasle 5",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "گروه وبجار | Webjar",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "آریا تهران | Aryatehran",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایران هاست | Iran Host",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "فنی مهندسی الکترواپتیک شرق | Electro-Optic Shargh Technical Company",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "مرکز تحقیق و توسعه شید | SheedSoft R and D",
+        "location": "البرز، کرج",
+        "salary": "26000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "گروه وبجار | Webjar",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "پارسیان همراه لوتوس- گروه داده پردازی پارسیان |  .PHL-PDPG Co",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "انرژی یار | Energy Yar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "فروشگاه سایان سنتر | Sayan Center",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "فناوری اطلاعات آرامین | Aramin Information Technology",
+        "location": "اصفهان، اصفهان",
+        "salary": "10000000"
+    },
+    {
+        "company": "اندیش سازان راهکارهای عصر نوین | Hsoft",
+        "location": "خوزستان، اهواز",
+        "salary": "12000000"
+    },
+    {
+        "company": "اتاق بازرگانی، صنایع، معادن  کشاورزی ایران | Iran Chamber of Commerce, Industries, Mines & Agriculture",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "پارسیس | Parsys",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "لجستیک هوشمند پاسارگاد | Pasargad",
+        "location": "زنجان، زنجان",
+        "salary": "20000000"
+    },
+    {
+        "company": "مبتکران فناوری اطلاعات ایده | Mobtakeran",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "گالری اشرافی | Ashraafi Gallery",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "محیا پرداز یزد | Mahya Pardaz",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "9000000"
+    },
+    {
+        "company": "تنیاکو | Teniaco",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "پیشگامان فناوری برنا رایان تمیم | Pishgaman Fanavari Borna Rayan Tamim",
+        "location": "فارس، شیراز",
+        "salary": "13000000"
+    },
+    {
+        "company": "فناوری و راه حل‏‏ های هوشمند سپهر | Hooshmand Sepehr",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "فناوری و راه حل‏‏ های هوشمند سپهر | Hooshmand Sepehr",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "زرین فناوران | Zarin Fanavaran",
+        "location": "فارس، شیراز",
+        "salary": "13000000"
+    },
+    {
+        "company": "زرین فناوران | Zarin Fanavaran",
+        "location": "فارس، شیراز",
+        "salary": "14000000"
+    },
+    {
+        "company": "متانکست | Metanext",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "26000000"
+    },
+    {
+        "company": "کانادا کریت | Canada Create",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "18000000"
+    },
+    {
+        "company": "ولتیفای | Walletifai",
+        "location": "تهران، تهران",
+        "salary": "28000000"
+    },
+    {
+        "company": "افرا تجارت آدنيس | Afra Tejarat Adnis",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "شتاب سیستم دنیا (رایسا) | Raisa Sys",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "ماورای ابعاد رایکا | Mavaraye Abad Rayka",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "توسعه داده پردازان رسام آریا | Tosee Dadeh Pardazan Rasam Aria",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "20000000"
+    },
+    {
+        "company": "ماورای ابعاد رایکا | Mavaraye Abad Rayka",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "پارسیس | Parsys",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "ابرناک | abrNOC",
+        "location": "تهران، تهران",
+        "salary": "45000000"
+    },
+    {
+        "company": "تاپس | Tops",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "تجارت انرژی توحید | Tohid Energy Trade",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "20000000"
+    },
+    {
+        "company": "اکس ماژول | Exmodule",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "بقراط | Boghrat",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آکادمی جمال قمری | JamalGhamari Academy",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "حسابو | Hesabo",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "صرافی بیت | Bit",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "روان آموز  |  Ravanamooz",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "8000000"
+    },
+    {
+        "company": "یگانه ارتباطات پیشرو | Yeganeh Ertebatat Pishro",
+        "location": "قزوین، قزوین",
+        "salary": "10000000"
+    },
+    {
+        "company": "پخش فردوس | FerdowsDCO",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "رف-رف | Rafraf",
+        "location": "البرز، کرج",
+        "salary": "15000000"
+    },
+    {
+        "company": "آتی رویکرد افکار | Ati Roykard Afkar",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آتی رویکرد افکار | Ati Roykard Afkar",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "ندا رسانان پیشرو | NRP",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "آتی رویکرد افکار | Ati Roykard Afkar",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "آکادمی آموزش املاک امید ابراهیمی  | Omid Ebrahimi Real Estate Academy",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "وبیفا | Webifa",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "بستینال سرویس | Bestinall Service",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "نورانو (نوران ارتباطات نوین) | Noorano",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "سی آر ام ایده آل | CRM IDEAL",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سی آر ام ایده آل | CRM IDEAL",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بنیان انرژی سبز مانا | Mana Green Energy",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "دیتاشف | DataChef",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "رایان پژوه سلامت | Rayanpajouh Salamat",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "راهکا اندیش مارلیک | Rahkar Andish Marlik",
+        "location": "گیلان، رشت",
+        "salary": "9000000"
+    },
+    {
+        "company": "بنیان انرژی سبز مانا | Mana Green Energy",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "7000000"
+    },
+    {
+        "company": "بیتشال | Bitcial",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "آروین شبکه مایان | Redwave",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "دیتاشف | DataChef",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "دانش بنیان پیام گستر فاوا | PayamGostar FAVA",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "رصد سرمایه هوشمند | Rasad",
+        "location": "اصفهان، اصفهان",
+        "salary": "14000000"
+    },
+    {
+        "company": "استودیو کریتیو باگ | Creative Bug Studio",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "توسعه کسب و کار لیدوما | Lidoma Business Development",
+        "location": "البرز، کرج",
+        "salary": "14000000"
+    },
+    {
+        "company": "مهیمن | Mohaymen",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "متانکست | Metanext",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "نشاط رخ | Neshatrokh",
+        "location": "اصفهان، اصفهان",
+        "salary": "10000000"
+    },
+    {
+        "company": "برقچی | Barghchi",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "چارت باکس | Chartbox",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "صنایع دستی پارسیان  | Parsian Handicrafs",
+        "location": "اصفهان، اصفهان",
+        "salary": "5000000"
+    },
+    {
+        "company": "راهکار حامی پرداز | Rahkar Hami Pardaz",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "راهکار حامی پرداز | Rahkar Hami Pardaz",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "فناوری و راه حل‏‏ های هوشمند سپهر | Hooshmand Sepehr",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آرتان فولاد ایرانیان | Artan Steel",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "ندا رسانان پیشرو | NRP",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "نوین دو | Novin Dev",
+        "location": "فارس، شیراز",
+        "salary": "15000000"
+    },
+    {
+        "company": "تارت | Tart",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "وبنا | Webina",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "آریا | Ariya Company",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "9000000"
+    },
+    {
+        "company": "آی بار | Ibaar",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "نادری تراول | Naderi Travel",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "سامبرگ اطلس جم | Samberg Atlas Jam",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "فناوری رایان | Fanavary Rayan",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "تکران | Techran",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "اندیش سازان راهکارهای عصر نوین | Hsoft",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "سیستم های منابع انسانی سیمرغ | Simorgh Human Resources Systems",
+        "location": "قم، قم",
+        "salary": "26000000"
+    },
+    {
+        "company": "کارنیل وب | Karnilweb",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بتو | Betou",
+        "location": "فارس، شیراز",
+        "salary": "8000000"
+    },
+    {
+        "company": "چادکو | Chadco",
+        "location": "فارس، شیراز",
+        "salary": "16000000"
+    },
+    {
+        "company": "هولدینگ آماتیس | Amathis",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نساجی پامچال | Pamchal Cerpet",
+        "location": "اصفهان، آران و بیدگل",
+        "salary": "7000000"
+    },
+    {
+        "company": "آتی نگر | Atinegar",
+        "location": "اصفهان، اصفهان",
+        "salary": "7000000"
+    },
+    {
+        "company": "پیام رهیابان  | Payam Rahyaban",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "نرم افزاری آدا | Ada Company",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "بهپرداز جهان | Behpardaz Jahan",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "فراسوی اطلاعات آینده | FEA",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "ابتکار سامانه آرمان | Ebtekar Samaneh Arman",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "اجایلبل | Agileabl",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "هلدینگ مرکز سنگ ایرانیان | Stone Center 7",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "شرکت بالون | Baloon",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "گیکس | Geeks Ltd",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایموکو | IMMOCO",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "بهور | Behvar",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "دانش بنیان پیام گستر فاوا | PayamGostar FAVA",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مرسا | Morsainternational",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "وبیشو | Webishow",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "سیستم های منابع انسانی سیمرغ | Simorgh Human Resources Systems",
+        "location": "قم، قم",
+        "salary": "26000000"
+    },
+    {
+        "company": "سیستم های منابع انسانی سیمرغ | Simorgh Human Resources Systems",
+        "location": "قم، قم",
+        "salary": "26000000"
+    },
+    {
+        "company": "هلدینگ توان | ta1group",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "چاپ چاپ چی | Chap Chap Chi",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ارزینجا | Arzinja",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "مدیریت فناوری بورس تهران | Tehran Securities Exchange Technology Management Co",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "بوستریپ | Boostrip",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "خدمات مسافرت هوایی، جهانگردی و زیارتی شاهدان کوثر | SHAHEDAN KOWSAR TOUR & TRAVEL AGENCY",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "چاوش همراه سرزمین ایرانیان | Chavosh Hamrah Sarzamin Iraniyan",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "گروه وبجار | Webjar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "داده گستر عصر نوین(های وب) | HiWeb",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "همکاران سیستم اصفهان | Isfahan System Group",
+        "location": "اصفهان، اصفهان",
+        "salary": "8000000"
+    },
+    {
+        "company": "فیدارمبین آژند | Fidar Mobin Azhand",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "بیتشال | Bitcial",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "بیتشال | Bitcial",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "باسیلیکا | Basilica",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "خدمات پشتیبانی نیرو | Poshtibani Niroo",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "آترین فناوران | Atrincom",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "داده پژوه آریا | Dade Pajoohe Aria",
+        "location": "اصفهان، اصفهان",
+        "salary": "30000000"
+    },
+    {
+        "company": "داده پژوه آریا | Dade Pajoohe Aria",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "صرافی بیت | Bit",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "شمیم خوشگوار | Khoshgovar",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "خدمات ارزی تراپی | Trapay",
+        "location": "فارس، شیراز",
+        "salary": "15000000"
+    },
+    {
+        "company": "فریوارد | Freeward International Group",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "چارسوق | Charsoq",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "چارسوق | Charsoq",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایپرو | IPRO",
+        "location": "فارس، شیراز",
+        "salary": "18000000"
+    },
+    {
+        "company": "نت پارسه | PCMMS",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بهین گستر گیتی | Behin Gostar",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "املاک بزرگ نگین (رسالت) | Negin Realestate",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "تیلورچی | Tailorchi",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "آراد الگو تریدینگ | Arad AlgoTrading",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "ادیسه  | Odyssey",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "داده کاوان هوشمند توسن | Tosan Intelligent Data Miners",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "رایان نظم | Rayan Nazm",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مدیریت هوشمند راستاد | Smart Management Of Rastad",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آهنگر  | Ahangar",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "فرهیختگان پیام همراه | Farhikhtegan Payam Hamrah",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "موسسه مهرآفرینان امید زندگی (همکده) | Hamkadeh",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مجتمع بین المللی گسترش فناوری اطلاعات تهران تندیس | Intel",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "هانسو | Hanso",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "مجتمع بین المللی گسترش فناوری اطلاعات تهران تندیس | Intel",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "اُتیچر  | Oteacher",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "اک تک | Actec",
+        "location": "اصفهان، اصفهان",
+        "salary": "9000000"
+    },
+    {
+        "company": "صدگان سامانه هوشمند | Sadgan Samaneh Hooshmand",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "30000000"
+    },
+    {
+        "company": "نیلیمون | Nilimoon",
+        "location": "آذربایجان شرقی، تبریز",
+        "salary": "30000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "خوزستان، اهواز",
+        "salary": "12000000"
+    },
+    {
+        "company": "تجارت الکترونیک اول | Tejarat Electronic Aval",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "اصفهان، اصفهان",
+        "salary": "11000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "چارت باکس | Chartbox",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "معماران عصر دانش | Architects of Knowledge Age Co.",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "هواپیمایی آتا | Ata Airlines",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "برین گیم تیپس | Brain Game Tips",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "20000000"
+    },
+    {
+        "company": "سامان پارک | Samanpark",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "مجموعه شرکت های تریتا  | Treata",
+        "location": "البرز، کرج",
+        "salary": "15000000"
+    },
+    {
+        "company": "الو دارو | Alo darou",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "اجایلبل | Agileabl",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "گروه صنعتی انتخاب الکترونیک | Entekhab Electronic Industrial Group",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "گروه صنعتی لابل | Labell",
+        "location": "گلستان، گرگان",
+        "salary": "10000000"
+    },
+    {
+        "company": "ارتباطات پیوسته ایرانیان | Ertebatat Peyvaste Iranian",
+        "location": "کرمان، کرمان",
+        "salary": "12000000"
+    },
+    {
+        "company": "حدید | Hadid Advanced Technologies",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "فراز | Faraz",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "عصر اندیشمندان | Asr Andishmandan",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آيريا | Ayria",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "موسسه خدمات مدیریت و فناوری رشد قلم‌چی | GMTII",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "خبره پرداز پارس | Khebre Pardaaz Pars",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "نیرا | Nira",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "مجموعه سرویس های چاپار  | Chaapaar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ابر درسا | Dorsa Cloud",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "صنایع الکترواپتیک صاایران | SAPA",
+        "location": "اصفهان، اصفهان",
+        "salary": "16000000"
+    },
+    {
+        "company": "آئین تجارت کسری | Bavili",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "هفت سین | Haftcin",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "زودکس | Zoodex",
+        "location": "کرمان، کرمان",
+        "salary": "10000000"
+    },
+    {
+        "company": "نرم افزاری گردشگری سان | SAN Tourism Software Group",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "تفتاکو | Taftaco",
+        "location": "اردبیل، اردبیل",
+        "salary": "10000000"
+    },
+    {
+        "company": "نرم افزاری آموت | Amoot Software",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "پویان افزار فناور | Poyan Afzar Fanavar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "دابز | Dubz",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "سلامت الکترونیکی تامین | SATA",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "یوتا | UTTA",
+        "location": "آذربایجان شرقی، تبریز",
+        "salary": "15000000"
+    },
+    {
+        "company": "تجارت الکترونیک امن موج  | Amn Moj",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "یوتا | UTTA",
+        "location": "آذربایجان شرقی، تبریز",
+        "salary": "12000000"
+    },
+    {
+        "company": "پیرا طب | Pira Teb",
+        "location": "تهران، تهران",
+        "salary": "5500000"
+    },
+    {
+        "company": "اکس ماژول | Exmodule",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "28000000"
+    },
+    {
+        "company": "فناوری اطلاعات آرامین | Aramin Information Technology",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "فناوری اطلاعات آرامین | Aramin Information Technology",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "پیشگامان فناآوری هوشمند آندیا | Andia's smart technology pioneers",
+        "location": "زنجان، زنجان",
+        "salary": "10000000"
+    },
+    {
+        "company": "پیشگامان فناآوری هوشمند آندیا | Andia's smart technology pioneers",
+        "location": "زنجان، زنجان",
+        "salary": "10000000"
+    },
+    {
+        "company": "لرنباما | Learnbama",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "داده کاوان تصمیم یار | Dade Kavan Tasmim Yar",
+        "location": "آذربایجان غربی، ارومیه",
+        "salary": "12000000"
+    },
+    {
+        "company": "ماهان وب گستر آویژه | Mahan Web Gostar Avizhe",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "الكترونيک پيک شريف | E-Peyk",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "دونگی | Dongi",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "اک تک | Actec",
+        "location": "اصفهان، اصفهان",
+        "salary": "12000000"
+    },
+    {
+        "company": "وبیفا | Webifa",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "انیگما  | Enigma",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "گره گالری | Gereh Gallery",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "پخش دارویی ممتاز | Pakhsh darooyi momtaz",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "مجموعه شرکت های تریتا  | Treata",
+        "location": "البرز، کرج",
+        "salary": "10000000"
+    },
+    {
+        "company": "یونایتد یونیتز | UnitedUnits",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "اک تک | Actec",
+        "location": "اصفهان، اصفهان",
+        "salary": "12000000"
+    },
+    {
+        "company": "اک تک | Actec",
+        "location": "اصفهان، اصفهان",
+        "salary": "12000000"
+    },
+    {
+        "company": "گلبان دانش سامانه کیش | Golban Danesh Samane",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "مشکات فارمد | MeshCutPharmed",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "نیکبخت خودرو | Nikbakht Khodro",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "کاربر محور ببر | Karbar Mehvar Babr",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "ندا رسانان پیشرو | NRP",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "امید آوران بامداد | Omidavaran Bamdad",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "لایو آموز | Live Amooz",
+        "location": "اصفهان، اصفهان",
+        "salary": "20000000"
+    },
+    {
+        "company": "مهیمن | Mohaymen",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "دانش بنیان پیام گستر فاوا | PayamGostar FAVA",
+        "location": "البرز، کرج",
+        "salary": "20000000"
+    },
+    {
+        "company": "مفید | Mofid",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ارتباط بنیان | ErtebatBonyan",
+        "location": "اصفهان، اصفهان",
+        "salary": "20000000"
+    },
+    {
+        "company": "مهندسی خدمات صنعتی ایران خودرو | IseikCo",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "البرزمیکروسیستم | Alborz MicroSystem",
+        "location": "قزوین، قزوین",
+        "salary": "15000000"
+    },
+    {
+        "company": "مفید | Mofid",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "مفید | Mofid",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مفید | Mofid",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آوا سامانه ماندگار | Ava Samane Mandegar",
+        "location": "البرز، کرج",
+        "salary": "15000000"
+    },
+    {
+        "company": "بیت لند | BitLand",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "یکتا روش | Yekta Ravesh",
+        "location": "آذربایجان شرقی، تبریز",
+        "salary": "8000000"
+    },
+    {
+        "company": "هدف پردازش کارن (آواتار وب) | Avatar Web",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "راهکارهای فناوری غزال دامون | Rahkarhaye Fanavari Ghazal Damon",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "موآتیه 118 | Moatiyeh 118",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آراد الگو تریدینگ | Arad AlgoTrading",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "نیک | Nik",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "فراز اطلاعات دنیای ویرا | Fadoo",
+        "location": "یزد، یزد",
+        "salary": "15000000"
+    },
+    {
+        "company": "استادریاضی | Ostadriazi",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سلام ساختمان | Salam Sakhteman",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "14000000"
+    },
+    {
+        "company": "هلدینگ 5040 |  5040 Holding Company",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "كوك ماشين | Kookmachine",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "ریموت اینتل | Remote Intel",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "تجارت تایر طلایی | Gbtire",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "فرابر آریا | Farabar Arya",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "رادین | RADIN",
+        "location": "مازندران، قائم شهر",
+        "salary": "12000000"
+    },
+    {
+        "company": "مجموعه آموزشی استاد تقدسی | Taghadosi Group",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "7000000"
+    },
+    {
+        "company": "وب متریک | WebMetric",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "شورای سیاست گذاری حوزه | Shora",
+        "location": "قم، قم",
+        "salary": "18000000"
+    },
+    {
+        "company": "رایناگ | Raynaag",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "اندیشه نوین رایورز | Andisheh Novin Rayvarz",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "گروه والور | Valour",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "پیشگامان داده پرداز صدرا | Pishgaman Dadepardaze Sadra",
+        "location": "اصفهان، اصفهان",
+        "salary": "20000000"
+    },
+    {
+        "company": "زودکس | Zoodex",
+        "location": "کرمان، کرمان",
+        "salary": "11000000"
+    },
+    {
+        "company": "پیشرو ایده های آراز | Pishro Idehaye Araz",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "آریا | Ariya Company",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "8000000"
+    },
+    {
+        "company": "جهان فولاد ایرانیان | Jahan Foolad Iranian",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "فناوری اطلاعات آرامین | Aramin Information Technology",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "سامانه راهکار دلفین اسپادانا | Samaneh Rahkare Dolphin Espadana",
+        "location": "اصفهان، اصفهان",
+        "salary": "20000000"
+    },
+    {
+        "company": "نیرا | Nira",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "هولدینگ پارس پندار نهاد | Pars Pendar Nahad",
+        "location": "اصفهان، اصفهان",
+        "salary": "16000000"
+    },
+    {
+        "company": "نیک داده پرداز | NDP",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "رهروان دانایی چیستا  | Chista",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "اکوشار | Ecoshaar",
+        "location": "اصفهان، اصفهان",
+        "salary": "12000000"
+    },
+    {
+        "company": "آروین ویرا | Arvinvira",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "آرین  | Arian",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "تحلیلگران هزاره نو | Tahlilgaran",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "راهکارهای نرم افزاری پارسان | Parsan Software Solutions",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "عصر فناوری دانش | KTE",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "آبزیان مرجان نور | Abziyan MARJAN Nour",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "آبزیان مرجان نور | Abziyan MARJAN Nour",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ماندگار درمان ایرانیان | sahda",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "موسسه خدمات مدیریت و فناوری رشد قلم‌چی | GMTII",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "توسعه صنعت اهدا | EHDA Group",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "30000000"
+    },
+    {
+        "company": "پوشاک ایرانیان | Iranianclothing",
+        "location": "تهران، شهر قدس",
+        "salary": "8000000"
+    },
+    {
+        "company": "داده پردازی خوارزمی | DP Kharazmi",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "داده پردازی خوارزمی | DP Kharazmi",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "نیک تصویر پارتاک | Nik Tasvir Partak",
+        "location": "اصفهان، اصفهان",
+        "salary": "10000000"
+    },
+    {
+        "company": "وردست | Vardast",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "اندیشه نوین رایورز | Andisheh Novin Rayvarz",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "9000000"
+    },
+    {
+        "company": "آکادمی پارسیماژ | Parsimaj Academy",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "کافی نت صبانت | Sabanet Coffenet",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "خدمات پشتیبانی نیرو | Poshtibani Niroo",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "13000000"
+    },
+    {
+        "company": "پارلی استودیو | Parli Studio",
+        "location": "اصفهان، اصفهان",
+        "salary": "7000000"
+    },
+    {
+        "company": "خدمات انفورماتیک نوین کیش | Novin-Kish Informatics Services Corporation",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "خدمات انفورماتیک نوین کیش | Novin-Kish Informatics Services Corporation",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "خدمات پشتیبانی نیرو | Poshtibani Niroo",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "آریا فناوران سیستم ماد | AFAM",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "پارس تکنولوژی سداد | Pars Technology Sadad",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "داده آوران بهین طرح | Dadeh Avaran",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "تکزوم | Texoom",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "اپلای لینک | ApplyLink",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "گلنار نیکان دندان | Golnar Nikan Dandan",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "دانش پرداز پیشرو | Danesh Pardaz Pishro",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "سفیر مهد دانش | Safire Mahde Danesh",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "رهروان دانایی چیستا  | Chista",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "فناوری اطلاعات دریا سیستم | Darya System IT",
+        "location": "البرز، کرج",
+        "salary": "9000000"
+    },
+    {
+        "company": "هلدینگ توان | ta1group",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "فناوری اطلاعات دریا سیستم | Darya System IT",
+        "location": "البرز، کرج",
+        "salary": "12000000"
+    },
+    {
+        "company": "توسعه دهندگان شهاب زرین | Shahab Zarrin Developers",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "خط قرمز | Redline",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "جرس | Jarras",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "تامین ارتباطات رویکرد آینده | Tamin Ertebatat Ruykard Ayandeh",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "تامین ارتباطات رویکرد آینده | Tamin Ertebatat Ruykard Ayandeh",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "تامین ارتباطات رویکرد آینده | Tamin Ertebatat Ruykard Ayandeh",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "نرم افزاری جادوی فکر | Jadooye Fekr",
+        "location": "مازندران، ساری",
+        "salary": "12000000"
+    },
+    {
+        "company": "سها اسمارت | Soha Smart",
+        "location": "البرز، کرج",
+        "salary": "8000000"
+    },
+    {
+        "company": "پویان افزار فناور | Poyan Afzar Fanavar",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سپید حساب ویرا | Sepid Account Vira",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "باکسیت | Boxit",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "نیکساوب | Niksaweb",
+        "location": "گیلان، رشت",
+        "salary": "12000000"
+    },
+    {
+        "company": "زی زاد | ZeeZaaD",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "زی زاد | ZeeZaaD",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "مشاوران سیستم | Moshaveran System",
+        "location": "البرز، کرج",
+        "salary": "20000000"
+    },
+    {
+        "company": "مشاوران سیستم | Moshaveran System",
+        "location": "البرز، کرج",
+        "salary": "24000000"
+    },
+    {
+        "company": "مشاوران سیستم | Moshaveran System",
+        "location": "البرز، کرج",
+        "salary": "24000000"
+    },
+    {
+        "company": "آتی رویکرد افکار | Ati Roykard Afkar",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "استادکار | Ostadkar",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "آتی رویکرد افکار | Ati Roykard Afkar",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "ساکسون دریلینگ | Saxon Drilling Trading Co",
+        "location": "البرز، کرج",
+        "salary": "18000000"
+    },
+    {
+        "company": "سرو نقره ای | Sarve Noghreyi",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "مک می | MacMe",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بازارخودرو | Bazarkhodro",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "موسسه آرمان پرشین خاورمیانه | Arman Persian Middle-East",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "پیشرو صنعت نفت آسیا (آیرومارت)  | Pishro Sanaat",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "دبستانی ها دنیای مجازی بچه ها | Dabestaniha Donya ye Majazi Bache ha",
+        "location": "قم، قم",
+        "salary": "18000000"
+    },
+    {
+        "company": "موسسه آرمان پرشین خاورمیانه | Arman Persian Middle-East",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "آسیا سرمایه هوشیار | Asia Sarmayeh Hoshyar",
+        "location": "تهران، چهاردانگه",
+        "salary": "15000000"
+    },
+    {
+        "company": "بورس اورجینال | Bourse Original",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "فرادیس | Faradis",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "رسامیهن | Rasamihan",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "سامیکس | Samix",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "توسعه دهندگان شهاب زرین | Shahab Zarrin Developers",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "تجارت الکترونیک اول | Tejarat Electronic Aval",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "فروتل | Frotel",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایرانیان ماناتاز | Iranian Manataz",
+        "location": "اصفهان، اصفهان",
+        "salary": "12000000"
+    },
+    {
+        "company": "رابط وب | Rabetweb",
+        "location": "البرز، کرج",
+        "salary": "7000000"
+    },
+    {
+        "company": "چارسوکپی | Charsoocopy",
+        "location": "تهران، تهران",
+        "salary": "6000000"
+    },
+    {
+        "company": "فناوری اطلاعات ناواکو | Navaco",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "سامیکس | Samix",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "الو دارو | Alo darou",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "فراز اس ام اس  | Faraz Sms",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "18000000"
+    },
+    {
+        "company": "توسعه ارتباطات دیجیتال سپهر | Sepehr Digital Communications Development",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "توسعه کسب و کار لیدوما | Lidoma Business Development",
+        "location": "البرز، کرج",
+        "salary": "10000000"
+    },
+    {
+        "company": "رایکانت | Raykanet",
+        "location": "یزد، یزد",
+        "salary": "12000000"
+    },
+    {
+        "company": "منیر | MONiR",
+        "location": "لرستان، خرم آباد",
+        "salary": "8000000"
+    },
+    {
+        "company": "داده پژوه آریا | Dade Pajoohe Aria",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "فنی مهندسی آینده‌سازان پردازش امن (آسپا) | ASPA Engineering Co",
+        "location": "اصفهان، اصفهان",
+        "salary": "8000000"
+    },
+    {
+        "company": "ویزا آتلانتیس | Visa Atlantis",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "ای جی | AG Karafarini",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "پانا وب | PanaWeb",
+        "location": "اصفهان، اصفهان",
+        "salary": "8000000"
+    },
+    {
+        "company": "دوندوک استودیو | DoonDookStudio",
+        "location": "همدان، همدان",
+        "salary": "7000000"
+    },
+    {
+        "company": "تکزوم | Texoom",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "بارآن | BarOn",
+        "location": "قم، قم",
+        "salary": "9000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "50000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "50000000"
+    },
+    {
+        "company": "نوساز محاسب صفاهان | Nosazmohaseb",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "نیکان اکسیر ویستا رایان | Nikan Exir Vista Rayan",
+        "location": "فارس، شیراز",
+        "salary": "10000000"
+    },
+    {
+        "company": "تجارت الکترونیک امن موج  | Amn Moj",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "مزمز | MazMaz",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "فلیکسین | Felixin",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "میوتو (ویژن سرویس) | Vision Service",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "رسانه تجارت نوین | Novin",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "بامداد رویان کیان | Bamdad Royan Kian",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "فناوری اطلاعات پارس کنترل | Pars Control",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "فناوری دراپ | Dropp Technologies",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "سیبچه | Sibche",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "تلنت اسکواد | TalentSquad",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "تلنت اسکواد | TalentSquad",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "ایران در واقعیت مجازی | iraninvr",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "داده گستران علم آوا | Dgea",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "فناوری اطلاعات پارس کنترل | Pars Control",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "فناوری اطلاعات پارس کنترل | Pars Control",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "داده پردازی آرین سیستم | ArianSystem Co",
+        "location": "تهران، رودهن",
+        "salary": "7000000"
+    },
+    {
+        "company": "کارنتک پارسیان | Karentech Parsian",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "سامانه راهکار دلفین اسپادانا | Samaneh Rahkare Dolphin Espadana",
+        "location": "اصفهان، اصفهان",
+        "salary": "35000000"
+    },
+    {
+        "company": "پت اینفو | Petinfo",
+        "location": "تهران، تهران",
+        "salary": "28000000"
+    },
+    {
+        "company": "آدرینا ارتباطات سام داد | Adrina Ertebatat Samdad",
+        "location": "مازندران، آمل",
+        "salary": "10000000"
+    },
+    {
+        "company": "رسانه بیان | Bayan",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "دیزایر | Desire",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "سیمپل اچ آر | Simple HR",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "تیموتی | Tiomoty",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "پولینا | Poolina",
+        "location": "اصفهان، نجف آباد",
+        "salary": "20000000"
+    },
+    {
+        "company": "میوتو (ویژن سرویس) | Vision Service",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "سپانو داده پارس | Pars Sepano Data",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "شبکه مجازی ارابا | Arraba",
+        "location": "تهران، تهران",
+        "salary": "5000000"
+    },
+    {
+        "company": "اصفهان وبسایت مرکز طراحی سایت | Isfahanwebsite",
+        "location": "اصفهان، اصفهان",
+        "salary": "10000000"
+    },
+    {
+        "company": "گرافی | Graphay",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "کاریان مشهد | Kariyan Mashhad",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "پنکو | Panco",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "گروه آریاس روژان | Ariyas Rojan",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "سیبچه | Sibche",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "سگال سیستم | Segal System",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ارنست   | Earnest",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "مجتمع بین المللی گسترش فناوری اطلاعات تهران تندیس | Intel",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "ایندیفای | InDefi",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "آژانس تبلیغاتی نماآگهی | Namaagahi Agency",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "درنا سیستم | Dorna System",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "اصطهباناتی | Estahbanaty",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "تاپس | Tops",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "فرصت تفکر سازنده | Forsat",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مشاوره مهندسی نداک | Nodak Consulting Company",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ارنست   | Earnest",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "ارزینجا | Arzinja",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "دات لاین | Dot Line",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "دیناوین | Dinawin",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "مدیانا | Mediana",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "رایناگ | Raynaag",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "داده گستران علم آوا | Dgea",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "خدمات ارتباطی رایتل | RighTel",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "ایده گستران ثمین پارس | Idea Commercialization Center",
+        "location": "فارس، شیراز",
+        "salary": "12000000"
+    },
+    {
+        "company": "بازار طلا | BazareTala",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "سیبچه | Sibche",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "استودیو تبلیغاتی انعکاس | Enekas Advertising Studio",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "استودیو تبلیغاتی انعکاس | Enekas Advertising Studio",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "سکو | Sacoo",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "کاشانت | Kashanet",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "گروه بازرگانی و مهندسی سمیع پور و شرکا | Samiepour & Partners Group",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "موسسه تحقیقاتی ابن سینا | Ebn e Sina Research",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "به پرداخت ملت | Behpardakht",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایران در واقعیت مجازی | iraninvr",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایران در واقعیت مجازی | iraninvr",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ابتکار سامانه آرمان | Ebtekar Samaneh Arman",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "اورانیان | Euranian",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "یوآیدی | UID",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "هزارگذر | Thousandways",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "بیت آسیا | Bitasia",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "بهپرداز جهان | Behpardaz Jahan",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "نومی | nomi",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "پلاک من | Pelak Man",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "بهسازان مجازی | Behsazan Majazi",
+        "location": "مازندران، آمل",
+        "salary": "10000000"
+    },
+    {
+        "company": "گیکس | Geeks Ltd",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "عامر اندیش هوشمند | Amerandish Hoshmand",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "وب آریو | Web Ario",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "وب آریو | Web Ario",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "گروه توسعه بوتان | Butane Industrial Group",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "گروه صنایع غذایی شیرین عسل | Shirinasal Food Industrial Group",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سیب ترش | Sib Torsh",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "دیجی شهر | DG Shahr",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "گروه وبجار | Webjar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "گروه وبجار | Webjar",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "گروه بارنا | Barena Group",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "ابتکار پردازش کیان | Kian",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "یکتا رز سرخ | Red Rose Group",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "10000000"
+    },
+    {
+        "company": "رابین | Robin",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "هوشمند رایانش روند گستر | Smart Computing",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "راوی ایندکس | Ravindex",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "هلدینگ شکوه جاوید ایرانیان | SJI Company",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "18000000"
+    },
+    {
+        "company": "مهیمن | Mohaymen",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مینی کالا | Minikala",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "شرکت نرم افزاری پرایم 724 | Prime 724 Software",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "بهاران گستر امید | Baharan",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "میوتو (ویژن سرویس) | Vision Service",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "تکران | Techran",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "پویا تک | Poya Tech",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "دات لاین | Dot Line",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "ورسا | Varsa Agency",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "سکان آکادمی | Sokan Academy",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "فراخط | Fra Khat",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "فراخط | Fra Khat",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "دواپس‌یار | DevopsYar",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "گروه مهندسی آی کن | ICAN",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "تکران | Techran",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "پارسیان الکترونیک سیروان | Parsian Electronic Sirvan",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سبز لرن | Sabzlearn",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "هوش تجاری بیکو  | BICO Business Intelligence",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "سکان آکادمی | Sokan Academy",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سکان آکادمی | Sokan Academy",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "آی‌تی‌هوم | Ithome",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "گروه صنعتی انتخاب الکترونیک | Entekhab Electronic Industrial Group",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "کارن آوران سعادت آتیه | Karen Avaran Saadat Atye",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نرم افزار حسابداری معین | Moeinsoft Moein",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "7000000"
+    },
+    {
+        "company": "تیموتی | Tiomoty",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایده پردازان دانیار | Duniar",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "پایا | Paya",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "تیموتی | Tiomoty",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "بنتوک سامانه | Bent Oak Systems",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "پایا | Paya",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "نوبی تلنت | Nobbytalent",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "پایا | Paya",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "میوتو (ویژن سرویس) | Vision Service",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "روم ویو | RoomVu",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "نرم افزاری گردشگری سان | SAN Tourism Software Group",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "بنتوک سامانه | Bent Oak Systems",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "موسسه طراحی و برنامه نویسی زیلا | Zilla",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "رویا نگار لیان | Roya Negar",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "توسعه ارتباطات رایان فرزام | Farzam Coopration",
+        "location": "تهران، تهران",
+        "salary": "6000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "توسعه ارتباطات رایان فرزام | Farzam Coopration",
+        "location": "تهران، تهران",
+        "salary": "6500000"
+    },
+    {
+        "company": "پویان افزار فناور | Poyan Afzar Fanavar",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "آيريا | Ayria",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "تکران | Techran",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "تسمینو | Tesmino",
+        "location": "گیلان، رشت",
+        "salary": "12000000"
+    },
+    {
+        "company": "میوتو (ویژن سرویس) | Vision Service",
+        "location": "تهران، تهران",
+        "salary": "28000000"
+    },
+    {
+        "company": "ونوس کو | Venus_Co",
+        "location": "تهران، تهران",
+        "salary": "45000000"
+    },
+    {
+        "company": "خدمات پرداخت ری | Rey Payment Solutions",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "روم ویو | RoomVu",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ونوس کو | Venus_Co",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "ونوس کو | Venus_Co",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ونوس کو | Venus_Co",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "داده کاوان پیشرو  | Data Mining Leaders",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "پردازش و ذخیره سازی سریع داده  | HPDS (High Performance Data Storage System)",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "متانکست | Metanext",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "30000000"
+    },
+    {
+        "company": "تلنت اسکواد | TalentSquad",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "خدمات تجارت سرمد | Sarmad Business Services",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "بهپرداز همراه سامانه اول (بهسا) | Behsa",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "تلنت اسکواد | TalentSquad",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "کاریان مشهد | Kariyan Mashhad",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "استودیو گروسیان | Garousian Studio",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "صنایع انفورماتیک سدید | Sadid",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "متیران | Matiran",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "متیران | Matiran",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نوبی تلنت | Nobbytalent",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "متیران | Matiran",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "چهارنسل | 4WG",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "متیران | Matiran",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "صراف | Saraf",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سوخت جت | SookhteJet",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "شاواز | Shavaz",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "شاواز | Shavaz",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "فناوران اطلاعات بومرنگ | Boomerang IT Co",
+        "location": "تهران، تهران",
+        "salary": "28000000"
+    },
+    {
+        "company": "نیک | Nik",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "پرداخت الکترونیک سداد | Sadad PSP",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "پژوهان سپند | Pajoohan Sepand",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "فلیکسین | Felixin",
+        "location": "تهران، تهران",
+        "salary": "28000000"
+    },
+    {
+        "company": "اکس ماژول | Exmodule",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "مجموعه سرویس های چاپار  | Chaapaar",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "مجموعه سرویس های چاپار  | Chaapaar",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "خانه توسعه فناوری اطلاعات | It House",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "هولدینگ پارس پندار نهاد | Pars Pendar Nahad",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "فلیکسین | Felixin",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "موسسه آرمان پرشین خاورمیانه | Arman Persian Middle-East",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "گروه خلاق درخشش | Sunshine Creative Team",
+        "location": "کرمان، کرمان",
+        "salary": "16000000"
+    },
+    {
+        "company": "لیمومی | Limoome",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "هانسو | Hanso",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "جوانفکران داده گستر | Javanfekran Dadeh Gostar",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "اکس ماژول | Exmodule",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "13000000"
+    },
+    {
+        "company": "وال ایت | Wallit s.r.o",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "وال ایت | Wallit s.r.o",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "گروه مالی الفت | Ulfat Finance",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "آسمان | Aseman",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "8000000"
+    },
+    {
+        "company": "دنیای کشاورزی هوشمند | Donate Novin",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "سامانه راهکار دلفین اسپادانا | Samaneh Rahkare Dolphin Espadana",
+        "location": "اصفهان، اصفهان",
+        "salary": "20000000"
+    },
+    {
+        "company": "راوی ایندکس | Ravindex",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "اسمارتیزا | Smartiza",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "بلوبیم | Bluebeam",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "آژانس دیجیتال مارکتینگ هونرما | Hunerma",
+        "location": "فارس، شیراز",
+        "salary": "10000000"
+    },
+    {
+        "company": "بتو | Betou",
+        "location": "فارس، شیراز",
+        "salary": "9000000"
+    },
+    {
+        "company": "نرم افزاری داتیس آرین قشم | Dotin",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "تیم خوب | Team Khoob",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "همراهان فردایی روشن | Hamrahan Fardaei rooshan",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "اکس ماژول | Exmodule",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "تارینوتک | tarinotech",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "گلستان | Golestan",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "پیشرو فناور هوشمند گیتی | Pishro Group",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "داده پردازی خوارزمی | DP Kharazmi",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "گسترش طراحان نقش الماس | Inoti",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "امیدان سیستم کارآفرین | Suprisein",
+        "location": "تهران، تهران",
+        "salary": "22000000"
+    },
+    {
+        "company": "فناوری‌های علوم داده حسابا | Hesaba",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ایران در واقعیت مجازی | iraninvr",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایران در واقعیت مجازی | iraninvr",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "گروه توسعه سرمایه گذاری آمارانت | Amarant",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "شبکه ویدئوکنفرانس ایران (شوکا) | Shooka",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "اینترنتی ساتیا | Satia",
+        "location": "مرکزی، اراک",
+        "salary": "10000000"
+    },
+    {
+        "company": "استودیو راک‌آپ | RockUp Studio",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سپهرفناور | Sepehr Fanavar",
+        "location": "اصفهان، اصفهان",
+        "salary": "30000000"
+    },
+    {
+        "company": "ندا رسانان پیشرو | NRP",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "بیمانی | Bimany",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "هایتاکی  | HiTalki",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "نادری تراول | Naderi Travel",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "فروشگاه فرهنگی و مذهبی آل طاها  | Alletaha",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "7000000"
+    },
+    {
+        "company": "بنیاد بین المللی مطالعات چین | International Foundation for China Studies",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "مهیمن | Mohaymen",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "دیفای نوین | DeFi Novin",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نقش اول کیفیت | Naghsh Aval Keyfiat",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "دکتر لینک | Dr Link",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "مهیمن | Mohaymen",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایرانیان گستر | Iraniangostar",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "گلستان | Golestan",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "لیاتیم  | lia Team",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "لیاتیم  | lia Team",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "رهیافت داده پردازی آرکا | Arka DML",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "گیکس | Geeks Ltd",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "سفیر سیر رضا | Safir Seir Reza",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "الستیک تیمز | Elasticteams",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "دانش حسیب | Danesh Hasib Co",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "پرداخت الکترونیک سامان کیش(سپ)  | Saman Electronic Payment",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "نوآوران داد و ستد هستی | Hastibazaar",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "آینده‌سازان | Ayandehsazan",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "ویش ورک | Wish Work",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "اسنپ فود | Snappfood",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "صدگان سامانه هوشمند | Sadgan Samaneh Hooshmand",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "35000000"
+    },
+    {
+        "company": "آرینا پل | Arina Pol",
+        "location": "اصفهان، اصفهان",
+        "salary": "10000000"
+    },
+    {
+        "company": "هلدینگ توان | ta1group",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "آذرین نوآوران | NKIT",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "موسسه مهرآفرینان امید زندگی (همکده) | Hamkadeh",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "دهکده دیجیتال مارکتینگ دلوان | Delvan",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "آتی رویکرد افکار | Ati Roykard Afkar",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "روم ویو | RoomVu",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "رویا نگار لیان | Roya Negar",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "نادری تراول | Naderi Travel",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "ابزارسرا | ABZARSARA",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "دکتر کلابز | Dr Clubs",
+        "location": "گیلان، رشت",
+        "salary": "7000000"
+    },
+    {
+        "company": "بهاران گستر امید | Baharan",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "باکسیت | Boxit",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "بهينه داده پردازان رايمون | Raymon",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "مشهدهاست | Mashhad Host",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "20000000"
+    },
+    {
+        "company": "ونوس شیشه | Venus Glass",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "لیاتیم  | lia Team",
+        "location": "تهران، تهران",
+        "salary": "11000000"
+    },
+    {
+        "company": "پیشرو فناور هوشمند گیتی | Pishro Group",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "گروه نرم افزاری تارا | Tara Software Group",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "دِویش | Devish",
+        "location": "تهران، تهران",
+        "salary": "35000000"
+    },
+    {
+        "company": "دیجیتال مارکتینگ جاویدان | digital marketing Javidan",
+        "location": "اصفهان، اصفهان",
+        "salary": "7000000"
+    },
+    {
+        "company": "دِویش | Devish",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "دِویش | Devish",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "گلدیس | Goldis",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "اینتکس  | Intex",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "20000000"
+    },
+    {
+        "company": "ارزینجا | Arzinja",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "نیک مدرن | Nik Modern",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "آکادمی کسری خطیبی | Kasra Khatibi Academy",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "نیک آموز | Nik Amooz",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "مهندسی کنترل هوشمند ناموران | Namvaran Intelligent Control Engineering",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "همراهان فردایی روشن | Hamrahan Fardaei rooshan",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "سورباس بیوتی | Sorbusbeauty",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "فناوری سایپا ارتباط | Fanavari Saipa Ertebat",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "همراه داده پرداز داوین | Hamrah Dadeh Pardaz Davin",
+        "location": "البرز، کرج",
+        "salary": "14000000"
+    },
+    {
+        "company": "همراه کارآفرینان رایمون | Raymon Entrepreneurs Compeer",
+        "location": "تهران، تهران",
+        "salary": "9000000"
+    },
+    {
+        "company": "الستیک تیمز | Elasticteams",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "پاپریکا | Paprika",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "هولدینگ ای ال ان | ALN",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "تجارت همراه روناش | Ronash",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "کاوه مکاترونیک آریا (کاما) | Kama",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایزی وب | Ezweb",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "آرتین‌ بنای باریستان | Baristan",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "ابرادین | Abroadin",
+        "location": "تهران، تهران",
+        "salary": "16000000"
+    },
+    {
+        "company": "اَوستا | Avesta",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "بلاگر کیوب | Blogger Cube",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "نوبی تلنت | Nobbytalent",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "فروتل | Frotel",
+        "location": "خراسان رضوی، مشهد",
+        "salary": "15000000"
+    },
+    {
+        "company": "هوش تجاری اساطیر | Asatir BI",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "نانو پردازان | Nano Pardazan",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "رزسفید | Rozesefid",
+        "location": "قم، قم",
+        "salary": "7000000"
+    },
+    {
+        "company": "نخ تاپ | Nakh Top",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "مجموعه سرویس های چاپار  | Chaapaar",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "توسعه کسب و کار لیدوما | Lidoma Business Development",
+        "location": "البرز، کرج",
+        "salary": "10000000"
+    },
+    {
+        "company": "نبکا | Nobka",
+        "location": "تهران، تهران",
+        "salary": "26000000"
+    },
+    {
+        "company": "شبکه فناوری مجازی بین المللی تدبیر کریمان کویر | Technological Virtual Collaboration (tecvico)",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "منیر | MONiR",
+        "location": "لرستان، خرم آباد",
+        "salary": "8000000"
+    },
+    {
+        "company": "توسعه فناوری اطلاعات آگین | FanAgin",
+        "location": "تهران، تهران",
+        "salary": "7000000"
+    },
+    {
+        "company": "لیاتیم  | lia Team",
+        "location": "تهران، تهران",
+        "salary": "10000000"
+    },
+    {
+        "company": "دانش پرداز پیشرو | Danesh Pardaz Pishro",
+        "location": "تهران، تهران",
+        "salary": "13000000"
+    },
+    {
+        "company": "دواپس‌یار | DevopsYar",
+        "location": "تهران، تهران",
+        "salary": "8000000"
+    },
+    {
+        "company": "وب سایت فهرست | Fehrest",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "آيريا | Ayria",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "آيريا | Ayria",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "رابط وب | Rabetweb",
+        "location": "البرز، کرج",
+        "salary": "7000000"
+    },
+    {
+        "company": "پاپیروس آریا | Papiroos Arya",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "سحاب | Sahab",
+        "location": "قم، قم",
+        "salary": "8000000"
+    },
+    {
+        "company": "رُکلا | Rokla",
+        "location": "فارس، شیراز",
+        "salary": "30000000"
+    },
+    {
+        "company": "تایتانز | Titans",
+        "location": "تهران، تهران",
+        "salary": "12000000"
+    },
+    {
+        "company": "هوشمندسازان ساجد | Hooshmand Sazan",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "موسسه تحقیقاتی میزانی | Mizani Research Institute",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "نرم افزاری گردشگری سان | SAN Tourism Software Group",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "پیکس پارس | PixPars",
+        "location": "اصفهان، اصفهان",
+        "salary": "15000000"
+    },
+    {
+        "company": "رایش | Rayesh",
+        "location": "اصفهان، اصفهان",
+        "salary": "9000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "50000000"
+    },
+    {
+        "company": "صندوق بازنشستگی صبانفت | Saba Naft",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "ایران تخصص | Ikrantakihasos",
+        "location": "تهران، تهران",
+        "salary": "18000000"
+    },
+    {
+        "company": "ایمپرفکت | Imperfect",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "بی وی تا | BVITA",
+        "location": "تهران، تهران",
+        "salary": "50000000"
+    },
+    {
+        "company": "پیندو | Pindo",
+        "location": "تهران، تهران",
+        "salary": "24000000"
+    },
+    {
+        "company": "آيريا | Ayria",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "آلفا | Alfa.Co",
+        "location": "البرز، کرج",
+        "salary": "50000000"
+    },
+    {
+        "company": "گروه طراحی رضایی | Rezaei Design Corporation",
+        "location": "فارس، شیراز",
+        "salary": "18000000"
+    },
+    {
+        "company": "داده پرداز آفاق | Dapagroup",
+        "location": "تهران، تهران",
+        "salary": "14000000"
+    },
+    {
+        "company": "الستیک تیمز | Elasticteams",
+        "location": "تهران، تهران",
+        "salary": "30000000"
+    },
+    {
+        "company": "مکتبستان | Maktabestan",
+        "location": "گلستان، گرگان",
+        "salary": "12000000"
+    },
+    {
+        "company": "معتمد اول هوشمند راهبر | MaaherTsp",
+        "location": "تهران، تهران",
+        "salary": "20000000"
+    },
+    {
+        "company": "رامان گستر | Raman Gostar",
+        "location": "تهران، تهران",
+        "salary": "40000000"
+    },
+    {
+        "company": "شرکت نرم افزاری پرایم 724 | Prime 724 Software",
+        "location": "تهران، تهران",
+        "salary": "15000000"
+    }
+]
